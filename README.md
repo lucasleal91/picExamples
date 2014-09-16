@@ -6,3 +6,4 @@ exercise3.c -- LED being controlled by switch push and release <br>
 exercise4.c -- LED being controlled by switch (push only) on development board with debounce <br>
 exercise5.c -- LED being controlled by switch (push only) on breadboard with interrupt <br>
 exercise6.c -- LEDs being controlled by switch (push only) on development board using timer and CN interrupts <br>
+exercise7.c -- LEDs being controlled by 16 and 32-bit timers with a switch <br>
