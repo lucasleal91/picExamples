@@ -7,3 +7,5 @@ exercise4.c -- LED being controlled by switch (push only) on development board w
 exercise5.c -- LED being controlled by switch (push only) on breadboard with interrupt <br>
 exercise6.c -- LEDs being controlled by switch (push only) on development board using timer and CN interrupts <br>
 exercise7.c -- LEDs being controlled by 16 and 32-bit timers with a switch <br>
+timerApp.c -- Find the duration of time between two button presses using a 16-bit timer. <br>
+timerApp-32bit.c -- Find the duration of time between two button presses using a 32-bit timer. <br>
